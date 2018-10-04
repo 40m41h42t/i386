@@ -4,13 +4,13 @@
 
 在下才疏学浅，所以肯定会有一些错误的地方。由于精力有限，我也不可能将这本手册翻译的面面俱到。欢迎交流~
 
-[项目翻译地址](https://github.com/qrzbing/INTEL-80386-PROGRAMMER-S-REFERENCE-MANUAL-1986-zh-CN)
+<del>[项目翻译地址](https://github.com/qrzbing/INTEL-80386-PROGRAMMER-S-REFERENCE-MANUAL-1986-zh-CN)</del>
 
 网上找到了一些其他人翻译的可以参考
 
 [Intel 80386 程序员参考手册](https://wizardforcel.gitbooks.io/intel-80386-ref-manual/content/)
 
-
+这个项目主要是补充翻译，另外本人翻译的目的就是对一些细节（比如内存管理、异常和中断等）有更好的理解。毕竟学习计组不是为了玩是不是？
 
 | 章节    | 翻译情况     |
 | ------- | ------------ |
